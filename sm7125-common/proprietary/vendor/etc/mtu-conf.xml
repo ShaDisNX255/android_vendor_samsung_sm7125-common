@@ -276,7 +276,10 @@ mtuTableEntry attributes:
     <mtuTableEntry numeric="28401" mtu="1330" rat="4"/>
 
 <!-- TURKCELL -->
-    <mtuTableEntry numeric="28601" mtu="1300" profile="2"/>    
+    <mtuTableEntry numeric="28601" mtu="1300" profile="2"/>
+
+<!-- Vodafone Turkey -->
+    <mtuTableEntry numeric="28602" mtu="1280" rat="4"/>
 
 <!-- AVEA -->
     <mtuTableEntry numeric="28603" mtu="1300" profile="2"/>
@@ -556,7 +559,7 @@ mtuTableEntry attributes:
     <mtuTableEntry numeric="52503" mtu="1300" rat="4"/>
 
 <!-- South Africa -->
-    <mtuTableEntry numeric="65507" mtu="1440" profile="2"/>
+    <mtuTableEntry numeric="65507" mtu="1280" profile="2"/>
 
 <!-- Claro Guatemala -->
     <mtuTableEntry numeric="70401" mtu="1300" proto="1"/>

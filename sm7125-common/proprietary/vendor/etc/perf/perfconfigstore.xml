@@ -22,8 +22,8 @@ property Name is called. -->
                 <Prop Name="vendor.iop.enable_uxe" Value="1" />
                 <Prop Name="vendor.enable.prefetch" Value="false" />
                 <Prop Name="vendor.iop.enable_prefetch_ofr" Value="false" />
-                <Prop Name="vendor.perf.iop_v3.enable" Value="true" />
-                <Prop Name="vendor.perf.iopv3.selfapk.enable" Value="true" />
+                <Prop Name="vendor.perf.iop_v3.enable" Value="false" />
+                <Prop Name="vendor.perf.iop_v3.enable.debug" Value="false" />
                 <Prop Name="vendor.debug.enable.memperfd" Value="true" />
 
                 <!--System Properties -->
