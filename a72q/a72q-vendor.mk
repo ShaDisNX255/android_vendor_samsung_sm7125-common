@@ -38,6 +38,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a72q/proprietary/vendor/lib/camera/components/com.wrapper.stats.aec.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.wrapper.stats.aec.so \
     vendor/samsung/a72q/proprietary/vendor/lib/camera/ois_mcu_stm32g_fw.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/ois_mcu_stm32g_fw.bin \
     vendor/samsung/a72q/proprietary/vendor/lib/camera/uw_dual_calibration.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/uw_dual_calibration.bin \
+    vendor/samsung/a72q/proprietary/vendor/lib/hw/camera.qcom.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.qcom.so \
     vendor/samsung/a72q/proprietary/vendor/lib/hw/com.samsung.chi.override.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/com.samsung.chi.override.so \
     vendor/samsung/a72q/proprietary/vendor/lib/libIMUSensor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libIMUSensor.so \
     vendor/samsung/a72q/proprietary/vendor/lib/libbauthserver.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbauthserver.so \
@@ -61,6 +62,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a72q/proprietary/vendor/lib64/camera/com.samsung.tuned.lsi_s5k3l6.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.samsung.tuned.lsi_s5k3l6.bin \
     vendor/samsung/a72q/proprietary/vendor/lib64/camera/com.samsung.tuned.lsi_s5kgw1p.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.samsung.tuned.lsi_s5kgw1p.bin \
     vendor/samsung/a72q/proprietary/vendor/lib64/camera/com.samsung.tuned.sony_imx682.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.samsung.tuned.sony_imx682.bin \
+    vendor/samsung/a72q/proprietary/vendor/lib64/hw/camera.qcom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/camera.qcom.so \
     vendor/samsung/a72q/proprietary/vendor/lib64/hw/com.samsung.chi.override.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/com.samsung.chi.override.so \
     vendor/samsung/a72q/proprietary/vendor/lib64/libIMUSensor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libIMUSensor.so \
     vendor/samsung/a72q/proprietary/vendor/lib64/libbauthserver.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbauthserver.so \
